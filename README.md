@@ -18,7 +18,7 @@ Conscious is a second brain web app designed to save and search links, notes, an
    ```
 
 3. **Install dependencies:**
-   ```bash
+   ```bash 
    npm install
    ```
 
